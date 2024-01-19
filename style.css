@@ -71,7 +71,7 @@ address {
 }
 .btn-burger::before {
     font-family: "Font Awesome 5 Free";
-    font-family: 900;
+    font-weight: 900;
     content: "\f0c9";
     font-size: 2.4rem;
     line-height: 2.1rem;
@@ -89,7 +89,7 @@ address {
 .menu {
     background:#006699;
 }
-.menu-list { display:none;}
+.menu-list { display:none; }
 .menu-list li {border-bottom:dashed 1px #ccc; }
 .menu-list li:last-child { border-bottom:none; }
 .menu-list a {
